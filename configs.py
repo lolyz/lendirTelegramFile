@@ -22,7 +22,7 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **My Name:** [Files Storage Bot](https://t.me/{BOT_USERNAME})
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -30,28 +30,22 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @SiPmks
 
-👨‍💻 **Editing:** @Mrk_YT
+📺 **Support:** [YouTube Channel](https://youtube.com/c/LoLyz)
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+🗣️ **Any Doubt:** @LgViral
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/LendirTelegram)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @SiPmks
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+🗣️ **Any Doubt:** @LgViral
 
-👨‍💻 **Editing:** @Mrk_YT
+📺 **Support :** [YouTube Channel](https://youtube.com/c/LoLyz)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/LendirTelegram)
 
 Donate Now (coming soon)
 """
