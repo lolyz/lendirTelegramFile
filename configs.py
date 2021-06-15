@@ -50,7 +50,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 Donate Now (coming soon)
 """
 	HOME_TEXT = """
-**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **MT FileStoreBot**.
+**👋Hi**, [{}](tg://user?id={})\n\n**This is Permanent** **File Storage Lendir Telegram**.
 
 **Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check About Bot Button**.
 """
